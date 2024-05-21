@@ -1,0 +1,11 @@
+doxygen/doxygen_new_line_after_brief=true
+doxygen/doxygen_use_brief_tag=false
+doxygen/doxygen_use_javadoc_tags=true
+doxygen/doxygen_use_pre_tag=false
+doxygen/doxygen_use_structural_commands=false
+eclipse.preferences.version=1
+environment/project/ilg.gnuarmeclipse.managedbuild.cross.toolchain.base.742425596/PATH/delimiter=;
+environment/project/ilg.gnuarmeclipse.managedbuild.cross.toolchain.base.742425596/PATH/operation=replace
+environment/project/ilg.gnuarmeclipse.managedbuild.cross.toolchain.base.742425596/PATH/value=D\:/Alex/Programms/JDK/jdk17.0.3.1/bin/server;D\:/Alex/Programms/JDK/jdk17.0.3.1/bin;C\:\\Program Files\\Common Files\\Oracle\\Java\\javapath;C\:\\Windows\\system32;C\:\\Windows;C\:\\Windows\\System32\\Wbem;C\:\\Windows\\System32\\WindowsPowerShell\\v1.0\\;C\:\\Program Files (x86)\\Common Files\\Acronis\\SnapAPI\\;D\:\\Alex\\Programms\\Node\\;D\:\\Alex\\Programms\\Git\\cmd;D\:\\Alex\\Programms\\Python\\Python38\\Scripts\\;D\:\\Alex\\Programms\\Python\\Python38\\;C\:\\Users\\user\\AppData\\Roaming\\npm;D\:\\Alex\\Programms\\Eclipse\\EmbeddedCCpp\\eclipse;D\:\\Alex\\Programms\\GNU\\build tool\\2.9-20170629-1013\\bin\\bin;D\:\\Alex\\Programms\\GNU\\toolchain\\8 2018-q4-major\\bin
+environment/project/ilg.gnuarmeclipse.managedbuild.cross.toolchain.base.742425596/append=true
+environment/project/ilg.gnuarmeclipse.managedbuild.cross.toolchain.base.742425596/appendContributed=true
